@@ -3,3 +3,5 @@ This is git test file
 
 third commit
 
+git is difficult
+
